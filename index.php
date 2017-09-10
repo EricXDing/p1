@@ -17,7 +17,6 @@ I am a law school student at Northwestern Law School (scheduled to be barred nex
 <br><br>I have never studied computer science formally until this summer. While my coding experience is somewhat limited, I understand the importance of seeking outside references. I have programmed some elementary programs, built some static and dynamic websites by using Wordpress, wired and coded an amateur electronic device using Arduino. I did those by watching a lot of youtube videos and visiting forums. While I think I am currently raw with some of the prerequists, I think I can handle this, and I am prepared to put in much effort. 
 <br><br>I really look forward to continue studying in the HES&#39;s software enginnering program. I want to challenge myself, and I look forward to this class!
 <hr>
-</body>
 <?php
 $quote1 = "Ask Not What Your Country Can Do For You. - John F. Kennedy";
 $quote2 = "We the people tell the government what to do, it doesn&#39;t tell us. - Ronald Reagan";
@@ -55,6 +54,7 @@ echo $quote6;
 }
 
 ?>
+</body>
 </html>
 
 
