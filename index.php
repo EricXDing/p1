@@ -19,7 +19,7 @@ I am a law school student at Northwestern Law School (scheduled to be barred nex
 <hr>
 </body>
 </html>
-<?php 
+<?php
 $quote1 = "Ask Not What Your Country Can Do For You. - John F. Kennedy";
 $quote2 = "We the people tell the government what to do, it doesn&#39;t tell us. - Ronald Reagan";
 $quote3 = "We must teach our children to resolve their conflicts with words, not weapons. - Bill Clinton";
@@ -27,7 +27,7 @@ $quote4 = "The advancement and diffusion of knowledge is the only guardian of tr
 $quote5 = "Economy is idealism in its most practical form. - Calvin Coolidge";
 $quote6 = "Think about every problem, every challenge, we face. The solution to each starts with education. - George H.W. Bush";
 
-echo 'Quote<br>';
+echo 'Quote:<br>';
 $QuoteNum = rand(0,5);
 
 if($QuoteNum < 1){
