@@ -18,8 +18,7 @@ I am a law school student at Northwestern Law School (scheduled to be barred nex
 <br>I really look forward to continue studying in the HES&#39;s software enginnering program. I want to challenge myself, and I look forward to this class!
 <hr>
 </body>
-</html>
-<?php
+</html><?php
 $quote1 = "Ask Not What Your Country Can Do For You. - John F. Kennedy";
 $quote2 = "We the people tell the government what to do, it doesn&#39;t tell us. - Ronald Reagan";
 $quote3 = "We must teach our children to resolve their conflicts with words, not weapons. - Bill Clinton";
