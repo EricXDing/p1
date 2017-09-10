@@ -6,7 +6,8 @@ h1 {
 }
 
 
-img.center {
+img {
 	display: block;
-	margin: 0 auto;
+	margin: auto;
+	width: 20%;
 }
